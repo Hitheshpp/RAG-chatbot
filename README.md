@@ -1,6 +1,6 @@
 # RAG-chatbot
 Rag chatbot for college information retrieval 
- Tech Stack: Python, Hugging Face Transformers, LangChain, FAISS, Sentence Transformers, Mistral-7B
+Tech Stack: Python, Hugging Face Transformers, LangChain, FAISS, Sentence Transformers, Mistral-7B
 Instruct 
  Developed a Retrieval-Augmented Generation (RAG) chatbot to assist students with college-related queries 
 including admissions, courses, departments, and campus information. 
