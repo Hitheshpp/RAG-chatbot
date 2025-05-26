@@ -1,4 +1,4 @@
-College Information RAG Chatbot
+#College Information RAG Chatbot
 A Retrieval-Augmented Generation (RAG) based chatbot designed to assist students with college-related queries, such as admissions, departments, courses, and campus life. Built using powerful open-source tools like Mistral-7B-Instruct, FAISS, LangChain, and Sentence Transformers.
 
 Tech Stack
