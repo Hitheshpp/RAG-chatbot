@@ -27,15 +27,15 @@ A Retrieval-Augmented Generation (RAG) based chatbot designed to assist students
 # Project Structure
 
 📁 rag-college-chatbot/
-│
-├── 📄 app.py                  # Backend FastAPI or Streamlit app
-├── 📄 rag_pipeline.py         # LangChain-based RAG pipeline
-├── 📄 vectorstore_builder.py  # FAISS vector store construction
-├── 📄 llm_loader.py           # Load and configure Mistral-7B
-├── 📄 requirements.txt        # Python dependencies
-├── 📁 data/                   # Folder for raw and processed documents
-├── 📁 models/                 # Folder to store quantized LLM models
-└── 📄 README.md               # Project documentation
+      │
+      ├── 📄 app.py                  # Backend FastAPI or Streamlit app
+      ├── 📄 rag_pipeline.py         # LangChain-based RAG pipeline
+      ├── 📄 vectorstore_builder.py  # FAISS vector store construction
+      ├── 📄 llm_loader.py           # Load and configure Mistral-7B
+      ├── 📄 requirements.txt        # Python dependencies
+      ├── 📁 data/                   # Folder for raw and processed documents
+      ├── 📁 models/                 # Folder to store quantized LLM models
+      └── 📄 README.md               # Project documentation
 
 # Installation
 
